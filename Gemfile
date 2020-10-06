@@ -1,7 +1,7 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
-# gem "rails"
+gem "rails"
 
 gem 'sinatra'
 gem 'rack-protection', '~> 2.0', '>= 2.0.1'
